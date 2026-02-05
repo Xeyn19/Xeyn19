@@ -4,7 +4,8 @@
 
 ### 🛠 Tech Stack
 - **Frontend:** React.js, Tailwind CSS
-- **Backend:** PHP, MySQL
+- **Backend:** PHP
+- **Database:** MySQL
 - **Environment:** XAMPP
 - **Currently Upskilling:** Laravel
 - **Familiar With:** Node.js, Express.js
@@ -12,11 +13,11 @@
 ### 🚀 What I Do
 - Build full-stack web applications  
 - Create responsive and user-friendly interfaces  
-- Work with databases and backend logic  
+- Work with backend logic and databases  
 - Continuously learn and improve my skills  
 
 ### 🌱 Currently Learning
-- Laravel (MVC, authentication, backend best practices)
+- Laravel (MVC architecture, authentication, backend best practices)
 
 ### 📌 Goals
 - Grow as a Full Stack Developer  
