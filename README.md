@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋 I'm Edgar
 
-<!--
-**Xeyn19/Xeyn19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer** who enjoys building web applications and working with code.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Frontend:** React.js, Tailwind CSS
+- **Backend:** PHP, MySQL
+- **Environment:** XAMPP
+- **Currently Upskilling:** Laravel
+- **Familiar With:** Node.js, Express.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+- Build full-stack web applications  
+- Create responsive and user-friendly interfaces  
+- Work with databases and backend logic  
+- Continuously learn and improve my skills  
+
+### 🌱 Currently Learning
+- Laravel (MVC, authentication, backend best practices)
+
+### 📌 Goals
+- Grow as a Full Stack Developer  
+- Contribute to real-world projects  
+- Build scalable and maintainable systems
