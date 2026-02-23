@@ -7,7 +7,6 @@
 - **Backend:** PHP
 - **Database:** MySQL
 - **Environment:** XAMPP
-- **Currently Upskilling:** Laravel
 - **Familiar With:** Node.js, Express.js
 
 ### 🚀 What I Do
