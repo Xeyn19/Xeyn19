@@ -4,10 +4,9 @@
 
 ### 🛠 Tech Stack
 - **Frontend:** React.js, Tailwind CSS
-- **Backend:** PHP
+- **Backend:** PHP, Node.js, Express.js
 - **Database:** MySQL
 - **Environment:** XAMPP
-- **Familiar With:** Node.js, Express.js
 
 ### 🚀 What I Do
 - Build full-stack web applications  
