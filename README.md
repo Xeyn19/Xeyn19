@@ -3,7 +3,7 @@
 💻 **Full Stack Developer** who enjoys building web applications and working with code.
 
 ### 🛠 Tech Stack
-- **Frontend:** React.js, Tailwind CSS
+- **Frontend:** React.js, Tailwind CSS, Next.js
 - **Backend:** PHP, Node.js, Express.js
 - **Database:** MySQL
 - **Environment:** XAMPP
