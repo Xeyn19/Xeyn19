@@ -15,7 +15,7 @@
 - Continuously learn and improve my skills  
 
 ### 🌱 Currently Learning
-- Laravel (MVC architecture, authentication, backend best practices)
+- Laravel
 
 ### 📌 Goals
 - Grow as a Full Stack Developer  
