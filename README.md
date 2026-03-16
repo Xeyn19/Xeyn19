@@ -1,7 +1,7 @@
 
 
 <div align="center">
-### 💻 Full Stack Developer · MVC Architect · Web Craftsman
+ 💻 Full Stack Developer · MVC Architect · Web Craftsman
 
 *I enjoy building clean, scalable web applications — from UI to database.*
 
