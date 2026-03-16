@@ -1,8 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Hey,%20I'm%20Edgar%20👋&fontSize=36&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
-
-</div>
 
 <div align="center">
 
@@ -64,26 +60,6 @@ const edgar = {
 
 </div>
 
----
-
-## 🧩 Architecture & Patterns
-
-<table>
-  <tr>
-    <td>🏗️ <b>MVC Architecture</b></td>
-    <td>Structured separation of Model, View, and Controller for clean codebases</td>
-  </tr>
-  <tr>
-    <td>🎨 <b>Design Patterns</b></td>
-    <td>Applying reusable solutions for scalable and maintainable systems</td>
-  </tr>
-  <tr>
-    <td>🔐 <b>JWT Middleware</b></td>
-    <td>Authentication & route protection using JSON Web Tokens</td>
-  </tr>
-</table>
-
----
 
 ## 🚀 What I Do
 
