@@ -95,27 +95,6 @@ const edgar = {
 - ☁️ Deploy projects using **Vercel**
 - 📚 Continuously learn and sharpen my skills
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeyn19&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="160"/>
-
-</div>
-
----
-
-## 📌 Goals
-
-- [ ] 🧑‍💻 Grow as a Full Stack Developer
-- [ ] 🤝 Contribute to real-world & open-source projects
-- [ ] 🏗️ Master MVC and advanced Design Patterns
-- [ ] ⚡ Build scalable, maintainable systems
-- [ ] 🌿 Become proficient in Laravel
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
