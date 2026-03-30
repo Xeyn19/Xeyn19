@@ -6,7 +6,7 @@
 </div>
 ---
 ## 🧑‍💻 About Me
-```js
+js
 const edgar = {
   role     : "Full Stack Developer",
   focus    : "Web Applications",
@@ -16,20 +16,18 @@ const edgar = {
   learning : "Laravel 🌱",
   goal     : "Build scalable & maintainable systems 🚀"
 };
-```
+
 ---
 ## 🛠 Tech Stack
 <div align="center">
 **Frontend**
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 **Backend**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 **Database & Auth**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -45,7 +43,6 @@ const edgar = {
 - ⚙️ Implement backend logic, REST APIs, and database schemas
 - 🏗️ Apply **MVC** and **Design Patterns** for clean, structured code
 - 🔐 Secure apps with **JWT-based authentication middleware**
-- 🔷 Write type-safe code with **TypeScript** across frontend and backend
 - ☁️ Deploy projects using **Vercel** and **Hostinger**
 - 📚 Continuously learn and sharpen my skills
 ---
