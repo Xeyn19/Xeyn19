@@ -1,10 +1,8 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=&fontSize=0" width="100%"/>
 
 # Edgar · Xeyn19
 ### 💻 Full Stack Developer · MVC Architect · Web Craftsman
-
 *I enjoy building clean, scalable web applications — from UI to database.*
 
 <br/>
@@ -17,17 +15,19 @@
 ---
 
 ## 🧑‍💻 About Me
+
 ```js
 const edgar = {
   role     : "Full Stack Developer",
   focus    : "Web Applications",
   arch     : ["MVC", "Design Patterns"],
-  auth     : ["JWT", "Middleware"],
+  auth     : ["JWT", "Middleware", "Supabase Auth"],
   deploy   : ["Vercel", "XAMPP", "Hostinger"],
+  database : ["MySQL", "Supabase (PostgreSQL)"],
   learning : "Laravel 🌱",
   goal     : "Build scalable & maintainable systems 🚀"
 };
-```
+` `` ` (remove spaces)
 
 ---
 
@@ -51,6 +51,7 @@ const edgar = {
 **Database & Auth**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 **Tools & Deployment**
@@ -70,7 +71,8 @@ const edgar = {
 - 🎨 Design responsive, user-friendly interfaces
 - ⚙️ Implement backend logic, REST APIs, and database schemas
 - 🏗️ Apply **MVC** and **Design Patterns** for clean, structured code
-- 🔐 Secure apps with **JWT-based authentication middleware**
+- 🔐 Secure apps with **JWT-based authentication** and **Supabase Auth**
+- 🗄️ Manage databases with **MySQL** and **Supabase (PostgreSQL)**
 - 🔷 Write type-safe code with **TypeScript** across frontend and backend
 - ☁️ Deploy projects using **Vercel** and **Hostinger**
 - 📚 Continuously learn and sharpen my skills
@@ -78,9 +80,27 @@ const edgar = {
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer" width="100%"/>
 
 *Thanks for visiting! Feel free to explore my repos and connect.* 🙌
-
 </div>
+```
+
+---
+
+Here's a summary of what changed and where Supabase was added:
+
+**`about me` object** — added `"Supabase Auth"` to the `auth` array and a new `database` field listing both MySQL and Supabase.
+
+**Tech Stack — Database & Auth section** — added the Supabase badge right between MySQL and JWT:
+```markdown
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+```
+
+**What I Do section** — updated the auth bullet and added a dedicated database bullet:
+```markdown
+- 🔐 Secure apps with **JWT-based authentication** and **Supabase Auth**
+- 🗄️ Manage databases with **MySQL** and **Supabase (PostgreSQL)**
+```
+
+Just copy the full block above into your `README.md` and you're good to go!
