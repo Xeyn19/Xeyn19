@@ -93,20 +93,6 @@ const edgar = {
 
 ---
 
-## 📌 Focus Areas
-
-```js
-const currentFocus = {
-  frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-  backend: ["PHP", "Node.js", "Express.js", "Laravel"],
-  database: ["MySQL", "Supabase", "PostgreSQL"],
-  auth: ["JWT", "Middleware", "Supabase Auth", "RLS Policies"],
-  architecture: ["MVC", "Design Patterns", "Clean Code"]
-};
-```
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer" width="100%"/>
 
