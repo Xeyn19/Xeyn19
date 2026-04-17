@@ -77,19 +77,9 @@ const edgar = {
 - 🏗 Apply **MVC** and **Design Patterns** for clean, structured code
 - 🔐 Secure apps with **JWT-based authentication** and **Supabase Auth**
 - 🗄 Manage databases with **MySQL** and **Supabase (PostgreSQL)**
-- 🔷 Write type-safe code with **TypeScript** across frontend and backend
+- 🔷 Write type-safe code with **TypeScript** across frontend
 - 🚀 Deploy projects using **Vercel** and **Hostinger**
 - 📚 Continuously learn and sharpen my skills
-
----
-
-## 🌱 Currently Learning
-
-- Laravel
-- Advanced backend architecture
-- Scalable database design
-- Secure authentication workflows
-- Supabase Auth, RLS policies, and PostgreSQL
 
 ---
 
