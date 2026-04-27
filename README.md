@@ -9,9 +9,6 @@
 
 <br/>
 
-[![Visitors](https://komarev.com/ghpvc/?username=Xeyn19&style=flat-square&color=58a6ff&label=Profile+Views)](https://github.com/Xeyn19)
-[![GitHub followers](https://img.shields.io/github/followers/Xeyn19?style=flat-square&color=58a6ff&label=Followers)](https://github.com/Xeyn19)
-
 </div>
 
 ---
