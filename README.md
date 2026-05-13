@@ -3,7 +3,7 @@
 
 # Edgar Xeyn19
 
-### 💻 Full Stack Developer | MVC Architect | Web Craftsman
+###  Full Stack Developer | MVC Architect | Web Craftsman
 
 *I enjoy building clean, scalable web applications from UI to database.*
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## ‍ About Me
 
 ```js
 const edgar = {
@@ -21,16 +21,17 @@ const edgar = {
   focus: "Web Applications",
   arch: ["MVC", "Design Patterns"],
   auth: ["JWT", "Middleware", "Supabase Auth"],
-  deploy: ["Vercel", "XAMPP", "Hostinger"],
-  database: ["MySQL", "Supabase (PostgreSQL)"],
-  learning: "Laravel 🌱",
-  goal: "Build scalable & maintainable systems 🚀"
+  deploy: ["Vercel", "Render", "XAMPP", "Hostinger"],
+  database: ["MySQL", "Aiven MySQL", "Supabase (PostgreSQL)"],
+  tools: ["MySQL Workbench", "CronJob"],
+  learning: "Laravel",
+  goal: "Build scalable & maintainable systems"
 };
 ```
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -53,6 +54,7 @@ const edgar = {
 ### Database & Auth
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Aiven](https://img.shields.io/badge/Aiven-1A1A1A?style=for-the-badge&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -62,8 +64,11 @@ const edgar = {
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+![Cron Job](https://img.shields.io/badge/CronJob-222222?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -71,23 +76,24 @@ const edgar = {
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
-- 🌐 Build full-stack web applications end-to-end
-- 🎨 Design responsive, user-friendly interfaces
-- 💻 Implement frontend experiences with **HTML**, **CSS**, and **JavaScript**
-- ⚙️ Implement backend logic, REST APIs, and database schemas
-- 🏗 Apply **MVC** and **Design Patterns** for clean, structured code
-- 🔐 Secure apps with **JWT-based authentication** and **Supabase Auth**
-- 🗄 Manage databases with **MySQL** and **Supabase (PostgreSQL)**
-- 🔷 Write type-safe code with **TypeScript** across frontend
-- 🚀 Deploy projects using **Vercel** and **Hostinger**
-- 📚 Continuously learn and sharpen my skills
+-  Build full-stack web applications end-to-end
+-  Design responsive, user-friendly interfaces
+-  Implement frontend experiences with **HTML**, **CSS**, and **JavaScript**
+-  Implement backend logic, REST APIs, and database schemas
+-  Apply **MVC** and **Design Patterns** for clean, structured code
+-  Secure apps with **JWT-based authentication** and **Supabase Auth**
+-  Manage databases with **MySQL**, **Aiven MySQL**, and **Supabase (PostgreSQL)**
+-  Write type-safe code with **TypeScript** across frontend
+-  Deploy projects using **Vercel**, **Render**, and **Hostinger**
+-  Work with tools like **MySQL Workbench** and **CronJob** for database management and scheduled tasks
+-  Continuously learn and sharpen my skills
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer" width="100%"/>
 
-*Thanks for visiting! Feel free to explore my repos and connect.* 🙌
+*Thanks for visiting! Feel free to explore my repos and connect.* 
 </div>
