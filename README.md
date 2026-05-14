@@ -24,7 +24,6 @@ const edgar = {
   deploy: ["Vercel", "Render", "XAMPP", "Hostinger"],
   database: ["MySQL", "Aiven MySQL", "Supabase (PostgreSQL)"],
   tools: ["MySQL Workbench", "CronJob"],
-  learning: "Laravel",
   goal: "Build scalable & maintainable systems"
 };
 ```
