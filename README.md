@@ -23,7 +23,7 @@ const edgar = {
   auth: ["JWT", "Middleware", "Supabase Auth"],
   deploy: ["Vercel", "Render", "XAMPP", "Hostinger"],
   database: ["MySQL", "Aiven MySQL", "Supabase (PostgreSQL)"],
-  tools: ["MySQL Workbench", "CronJob"],
+  tools: ["MySQL Workbench", "CronJob", "Playwright"],
   goal: "Build scalable & maintainable systems"
 };
 ```
@@ -62,6 +62,7 @@ const edgar = {
 
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
@@ -85,6 +86,7 @@ const edgar = {
 -  Secure apps with **JWT-based authentication** and **Supabase Auth**
 -  Manage databases with **MySQL**, **Aiven MySQL**, and **Supabase (PostgreSQL)**
 -  Write type-safe code with **TypeScript** across frontend
+-  Use **Playwright** for browser automation and end-to-end testing
 -  Deploy projects using **Vercel**, **Render**, and **Hostinger**
 -  Work with tools like **MySQL Workbench** and **CronJob** for database management and scheduled tasks
 -  Continuously learn and sharpen my skills
@@ -95,4 +97,4 @@ const edgar = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer" width="100%"/>
 
 *Thanks for visiting! Feel free to explore my repos and connect.* 
-</div>
+</div> 
